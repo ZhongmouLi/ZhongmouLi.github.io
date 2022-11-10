@@ -19,12 +19,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "AboutMe.md", title: "About me"}
   - {file: "Research.md", title: "Research"}
   - {file: "Pub.md", title: "Publication"}
-  - {file: "Research.md", title: "CV"}
+  - {file: "Cv.md", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:robin.zhongmou.li@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/ZhongmouLi"}
+ # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
